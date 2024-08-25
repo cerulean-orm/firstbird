@@ -25,3 +25,7 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 [symbols]: https://github.com/pret/pokeyellow/tree/symbols
 [ci]: https://github.com/pret/pokeyellow/actions
 [ci-badge]: https://github.com/pret/pokeyellow/actions/workflows/main.yml/badge.svg
+
+## Cerulean Orm Note
+
+My aim with this fork is to replace the rodent in pokemon yellow with archen, and to allow it to evolve into archeops. If I can accomplish this, I'll see what else I can change after!
