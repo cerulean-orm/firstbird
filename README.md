@@ -28,4 +28,4 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 
 ## Cerulean Orm Note
 
-My aim with this fork is to replace the rodent in pokemon yellow with archen, and to allow it to evolve into archeops. If I can accomplish this, I'll see what else I can change after!
+My aim with this fork is to replace the rodent in pokemon yellow with archen, and to allow it to evolve into archeops. If I can accomplish this, I'll see what else I can change after! - testing local
